@@ -1,0 +1,22 @@
+{
+  "name": "TYHTools",
+  "version": "0.1.0",
+  "summary": "A short description of TYHTools.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/tianyihua/TYHTools",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tianyihua": "tianyihua@alibaba-inc.com"
+  },
+  "source": {
+    "git": "https://github.com/tianyihua/TYHTools.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TYHTools/Classes/**/*"
+}

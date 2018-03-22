@@ -1,0 +1,16 @@
+PODS:
+  - TYHTools (0.1.0)
+
+DEPENDENCIES:
+  - TYHTools (from `../`)
+
+EXTERNAL SOURCES:
+  TYHTools:
+    :path: ../
+
+SPEC CHECKSUMS:
+  TYHTools: d35b8f44c7361dd6341f532784adf36968ae624f
+
+PODFILE CHECKSUM: 98714bac794754977a304aaa5b753eea46725c7b
+
+COCOAPODS: 1.4.0.beta.2

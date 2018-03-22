@@ -1,0 +1,6 @@
+framework module TYHTools {
+  umbrella header "TYHTools-umbrella.h"
+
+  export *
+  module * { export * }
+}
