@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'TYHTools_Example' do
+  pod 'TYHTools', :path => '../'
+
+  target 'TYHTools_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
